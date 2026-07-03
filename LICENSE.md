@@ -1,4 +1,4 @@
-#  
+#  elite Script for dandy's world offers the most advanced dandy's world Script, with auto-heal and esp. Perfect for dominating any match.
 
 
 
